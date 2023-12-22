@@ -1,0 +1,8 @@
+/* theme */
+:root{
+    --background-theme: #2d3436;
+    --background-list: #00cec9;
+    --background-list-even: #81ecec;
+    --color-text: #fff;
+    --background-level-two: #222;
+}

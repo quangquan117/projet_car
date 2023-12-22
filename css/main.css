@@ -1,0 +1,30 @@
+@import url(reset.css);
+@import url(theme.css);
+header{
+    background-color: var(--background-list);
+    text-align: center;
+    line-height: 7.0rem;
+}
+section{
+    max-width: 120rem;
+    margin: 5rem auto;
+}
+section h2{
+    background-color: var(--background-level-two);
+    color: var(--color-text);
+    text-align: center;
+    margin-bottom: 6.5rem;
+}
+section ul{
+    line-height: 3.5rem;
+}
+li{
+    padding: 1rem;
+    background-color: var(--background-list);
+}
+li:nth-child(2n){
+    background-color: var(--background-list-even);
+}
+footer{
+    text-align: center;
+}

@@ -4,6 +4,8 @@ html{
 }
 body{
     font: 1.6rem sans-serif;
+    background-color: var(--background-theme);
+    color: var(--color-text);
     margin: 0;
     letter-spacing: .1rem;
     line-height: 1.6;
@@ -15,10 +17,12 @@ h1,h2,h3,p,figure,ol,ul,blockquote,address{
     margin: 0;
     padding: 0;
     list-style: none;
+    font-weight: normal;
 }
 button, a{
     text-decoration: none;
     background-color: transparent;
+    padding: 0;
     border: 0;
 }
 img{
