@@ -1,6 +1,6 @@
 {
-    "name":"Projet web app",
-    "short_name":"Projet init",
+    "name":"Voiture de sport",
+    "short_name":"Voiture",
     "icons":[
         {
             "src":"./favicon-16x16.png",
